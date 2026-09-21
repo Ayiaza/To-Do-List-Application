@@ -24,3 +24,8 @@ function addTask() {
 function deleteTask(button) {
     button.parentElement.remove();
 }
+document.getElementById("taskInput").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        addTask();
+    }
+});
