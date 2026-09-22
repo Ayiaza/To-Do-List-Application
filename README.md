@@ -5,8 +5,8 @@ The application allows users to add and delete tasks through an easy-to-use inte
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Visual Studio Code
 - Git
